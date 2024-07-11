@@ -1,0 +1,3 @@
+Account:
+_id, name, email, password, role
+
